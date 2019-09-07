@@ -8,7 +8,7 @@
 
 - [mrk](https://github.com/a11ce/mrk): A line-based note-taking tool inspired by ed.
 - [genlang](https://github.com/a11ce/genlang): Experiments in procedurally generated constructed languages.
-- [Network ABM Framework](https://a11ce.github.io/network-ABM-framework/): A conceptual framework for defining and implementing network agent-based models. 
+- [Network ABM Framework](https://a11ce.github.io/network-ABM-framework/): A conceptual framework for defining and implementing network agent-based models, part of a research project at Brown University's Ogbunu Lab.
 - [Word Genes](https://github.com/a11ce/word-genes): Games based on *A New Take on John Maynard Smith's Concept of Protein Space for Understanding Molecular Evolution*, part of a research project at Brown University's Ogbunu Lab.
 - [artillery](https://github.com/a11ce/artillery): A two-player artillery game.
 - [esAsm](https://github.com/a11ce/esAsm): A toy assembly-ish language meant to be fun to use.
