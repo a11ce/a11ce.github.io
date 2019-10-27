@@ -21,7 +21,7 @@
 - [dessert-ish](https://github.com/a11ce/dessert-ish): The worst website.
 - [Play a high pitched sound](https://github.com/a11ce/PlayAHighPitchedSound): Play an annoying tone with just a voice command!
 - [Muzlumo](https://github.com/a11ce/Muzlumo): A simple music visualizer.
-- [beautytest.tk](http://beautytest.tk/): The only accurate automated test of beauty, accurate by always displaying 100%. Made as a response to another popular (less accurate) site.
+- [Beauty Test](https://github.com/a11ce/beautytest): The only accurate automated test of beauty, accurate by always displaying 100%. Made as a response to another popular (less accurate) site.
 - [HyperKarel](https://github.com/a11ce/HyperKarel): N-Dimensional Karel.
 - [philosophy game](https://github.com/a11ce/philosophy-game): A solver for the philosophy game on Wikipedia.
 - [Webkinz AI](https://github.com/a11ce/webkinz-AI): AIs for some Webkinz arcade games.
