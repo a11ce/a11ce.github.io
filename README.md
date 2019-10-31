@@ -10,7 +10,7 @@
 - [genlang](https://github.com/a11ce/genlang): Experiments in procedurally generated constructed languages.
 - [Network ABM Framework](https://a11ce.github.io/network-ABM-framework/): A conceptual framework for defining and implementing network agent-based models, part of a research project at Brown University's Ogbunu Lab.
 - [Word Genes](https://github.com/a11ce/word-genes): Games based on *A New Take on John Maynard Smith's Concept of Protein Space for Understanding Molecular Evolution*, part of a research project at Brown University's Ogbunu Lab.
-- [artillery](https://github.com/a11ce/artillery): A two-player artillery game.
+- [artillery](https://github.com/a11ce/artillery): A zero-, one- or two-player artillery game with AI support.
 - [esAsm](https://github.com/a11ce/esAsm): A toy assembly-ish language meant to be fun to use.
 - [ghostgame](https://github.com/a11ce/ghostgame): A game in which you explore a house and run away from ghosts.
 - [cantiones](http://cantiones.herokuapp.com/): A website for collaboratively making playlists.
