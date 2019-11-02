@@ -1,10 +1,10 @@
-# a11ce's index
+# riley (a11ce)'s index
 
-## **online accounts**
+## **art**
 - [\@neuralist](https://www.instagram.com/neuralist/) on Instagram for digital art.
 - [\@a11ce.png](https://www.instagram.com/a11ce.png/) on Instagram for photography.
 
-## **projects (reverse chronological order)**
+## **projects (newest first)**
 
 - [mrk](https://github.com/a11ce/mrk): A line-based note-taking tool inspired by ed.
 - [genlang](https://github.com/a11ce/genlang): Experiments in procedurally generated constructed languages.
