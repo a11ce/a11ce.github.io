@@ -1,6 +1,3 @@
----
-header-includes: <script src="gtag.js"></script>
----
 # a11ce's index
 
 ## **online accounts**
