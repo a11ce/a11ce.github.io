@@ -15,7 +15,7 @@
 - [ghostgame](https://github.com/a11ce/ghostgame): A game in which you explore a house and run away from ghosts.
 - [cantiones](http://cantiones.herokuapp.com/): A website for collaboratively making playlists.
 - [transliterator](https://github.com/a11ce/transliterator): A multilingual to-English transliterator currently supporting Hungarian, Russian, and Yiddish.
-- [videoprism](https://github.com/a11ce/videoprism): Exploring the idea that videos are 3D arrays of pixels.
+- [videoPrism](https://github.com/a11ce/videoprism): Exploring the idea that videos are 3D arrays of pixels.
 - [geopolitics](https://github.com/a11ce/geopolitics): A (non-video) game about superpowers and cold war.
 - [sentiment playlists](https://github.com/a11ce/sentimentplaylists): Making happy or sad Spotify playlists.
 - [dessert-ish](https://github.com/a11ce/dessert-ish): The worst website.
