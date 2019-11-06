@@ -4,6 +4,10 @@
 - [\@neuralist](https://www.instagram.com/neuralist/) on Instagram for digital art.
 - [\@a11ce.png](https://www.instagram.com/a11ce.png/) on Instagram for photography.
 
+## **translations**
+
+- [A Ghost Story (English <- Latin)](translation.html): Excerpted from Pliny the Younger's letter to Sura (7.27).
+
 ## **projects (newest first)**
 
 - [mrk](https://github.com/a11ce/mrk): A line-based note-taking tool inspired by ed.
