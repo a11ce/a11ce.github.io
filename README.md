@@ -6,7 +6,9 @@
 
 ## **translations**
 
-- [A Ghost Story (English <- Latin)](translation.html): Excerpted from Pliny the Younger's letter to Sura (7.27).
+#### english from latin:
+- [A Ghost Story](translation.html#a-ghost-story): Excerpted from Pliny the Younger's letter to Sura (7.27).
+- [Catullus 11](translation.html#catullus-11): Two versions of a breakup poem, one earnest and one less so.
 
 ## **projects (newest first)**
 
