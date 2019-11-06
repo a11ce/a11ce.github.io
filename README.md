@@ -1,8 +1,8 @@
 # riley (a11ce)'s index
 
 ## **art**
-- [\@neuralist](https://www.instagram.com/neuralist/) on Instagram for digital art.
-- [\@a11ce.png](https://www.instagram.com/a11ce.png/) on Instagram for photography.
+- [Digital art](https://www.instagram.com/neuralist/): @neuralist on Instagram.
+- [Photography](https://www.instagram.com/a11ce.png/): @a11ce.png on Instagram.
 
 ## **translations**
 
