@@ -10,7 +10,7 @@
 - [A Ghost Story](translation.html#a-ghost-story): Excerpted from Pliny the Younger's letter to Sura (7.27).
 - [Catullus 11](translation.html#catullus-11): Two interpretations of a breakup poem, one earnest and one less so.
 
-## **selected projects (newest first)**
+## **selected projects**
 
 #### 2019:
 
