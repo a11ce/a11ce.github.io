@@ -12,6 +12,10 @@
 
 ## **selected projects**
 
+#### 2020:
+
+- [defKey](https://github.com/a11ce/defKey): Non-blocking keybinds using threads.
+
 #### 2019:
 
 - [mrk](https://github.com/a11ce/mrk): A line-based note-taking tool inspired by ed.
