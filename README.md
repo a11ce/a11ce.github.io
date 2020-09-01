@@ -2,7 +2,6 @@
 
 ## **art**
 - [Digital art](https://www.instagram.com/neuralist/): @neuralist on Instagram.
-- [Photography](https://www.instagram.com/a11ce.png/): @a11ce.png on Instagram.
 
 ## **translations**
 
@@ -54,5 +53,3 @@
 
 - [kat the bot](https://github.com/a11ce/kat-the-bot): A Markov chain-ish text generator.
 - [fractal music](https://github.com/a11ce/fractal-music): Creates fractal chord progressions or melodies.
-
-All of my code written before late 2016 is unfortunately lost. 
