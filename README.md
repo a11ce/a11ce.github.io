@@ -13,6 +13,7 @@
 
 #### 2020:
 
+- [salad.nu to ICS](https://github.com/a11ce/saladnu-ics): Convert CSV schedules from salad.nu to ICS files.
 - [defKey](https://github.com/a11ce/defKey): Non-blocking keybinds using threads.
 
 #### 2019:
