@@ -6,8 +6,9 @@
 ## **translations**
 
 #### english from latin:
-- [A Ghost Story](translation.html#a-ghost-story): Excerpted from Pliny the Younger's letter to Sura (7.27).
+- [A Ghost Story](translation.html#a-ghost-story-from-pliny-7.27): Excerpted from Pliny the Younger's letter to Sura (7.27).
 - [Catullus 11](translation.html#catullus-11): Two interpretations of a breakup poem, one earnest and one less so.
+- [A Werewolf Story](translation.html#a-werewolf-story-from-satyricon-61-62): From Petronius’ Satyricon (61-62).
 
 ## **selected projects**
 
