@@ -13,8 +13,13 @@
 ## **selected projects**
 
 #### 2020:
-
+- [speedRound](https://a11ce.com/speedround): A website for playing headbands and related how-many-in-a-minute games.
+- [lispy](https://github.com/a11ce/lispy): A lisp inside Python.
+- [tarot](https://github.com/a11ce/tarot): Card database and digital tarot drawing.
+- [astrorum](https://github.com/a11ce/astrorum): A space roguelike with alien language simulation. 
 - [salad.nu to ICS](https://github.com/a11ce/saladnu-ics): Convert CSV schedules from salad.nu to ICS files.
+- [amor](https://a11ce.com/amor/): A cute demo site.
+- [microGenrePlaylists](https://github.com/a11ce/microGenrePlaylists): Exploring the world of spotify microgenres.
 - [defKey](https://github.com/a11ce/defKey): Non-blocking keybinds using threads.
 
 #### 2019:
