@@ -1,7 +1,15 @@
 # riley (a11ce)'s index
 
-## **art**
-- [Digital art](https://www.instagram.com/neuralist/): @neuralist on Instagram.
+## **links**
+- [a11ce](https://github.com/a11ce) on GitHub.
+- [neuralist](https://www.instagram.com/neuralist/) on Instagram for digital art.
+- [a11ce](https://soundcloud.com/a11ce/) on SoundCloud for music.
+- *any other a11ce online might not be me.*
+
+##### contact
+- [hi@a11ce.com](mailto:hi@a11ce.com) or yourTopic@a11ce.com for email.
+- [PGP key](key.html)
+
 
 ## **translations**
 
